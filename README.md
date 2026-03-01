@@ -368,7 +368,7 @@ copies or substantial portions of the Software.
 
 ---
 
-**Note**: This is currently a FYP project by Hamza Ajmal. The platform is in development and not yet publicly deployed. For demonstration purposes only.
+**Note**: This is currently a project by Chaman Afzaal. The platform is in development and not yet publicly deployed. For demonstration purposes only.
 
 ---
 
