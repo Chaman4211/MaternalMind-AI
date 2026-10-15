@@ -352,19 +352,19 @@ copies or substantial portions of the Software.
 
 ### 👤 Developer
 - **Developer**: Chaman Afzaal
-- **Email**: [chamanchaudhary182@gmail.com](mailto:chamanchaudhary182@gmail.com)
+- **Email**: [chamanafzaal01@gmail.com](mailto:chamanafzaal01@gmail.com)
 - **GitHub**: [@Chaman4211](https://github.com/Chaman4211)
 
 ### 📝 Project Status
 🚧 **Current Status**: Development Phase  
 📅 **Target Launch**: Coming Soon  
-💻 **Type**: FYP Project / Portfolio  
+💻 **Type**: Portfolio  
 🎯 **Goal**: Create comprehensive pregnancy wellness platform
 
 ### 📧 Email Categories
-- **Technical Issues**: chamanchaudhary182@gmail.com
-- **Feature Suggestions**: chamanchaudhary182@gmail.com
-- **Collaboration Inquiries**: chamanchaudhary182@gmail.com
+- **Technical Issues**: chamanafzaal01@gmail.com
+- **Feature Suggestions**: chamanafzaal01@gmail.com
+- **Collaboration Inquiries**: chamanafzaal01@gmail.com
 
 ---
 
